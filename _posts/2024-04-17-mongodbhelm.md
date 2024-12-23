@@ -2,8 +2,7 @@
 title: "MongoDB Proper Kubernetes installation with Helm"
 date: 2024-04-17T09:59:03-04:00
 tags : ["mongodb", "k8s"]
-draft: false
-layout: post
+categories : ["DevOps"]
 ---
 # Overview
 In a previous post I created my own MongoDB deployment and installed with Kustomize.  Let's use the "official" Bitnami Helm Chart to install MongoDB.

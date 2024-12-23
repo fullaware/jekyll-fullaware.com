@@ -2,7 +2,6 @@
 title: "Firefox: The WidevineCdm plugin has crashed"
 date: 2022-12-31T10:08:07-05:00
 tags: ["linux"]
-layout: post
 ---
 Firefox 108.0.1 (64-bit) - "The WidevineCdm plugin has crashed"
 

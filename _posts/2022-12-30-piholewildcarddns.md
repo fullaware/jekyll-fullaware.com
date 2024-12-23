@@ -2,7 +2,6 @@
 title: "Pi-Hole Wildcard DNS"
 date: 2022-12-30
 tags : ["homelab", "k8s"]
-layout: post
 ---
 In order to access Kubernetes applications via my ingress [projectcontour.io](https://projectcontour.io), I'll use a wildcard DNS entry.  
 

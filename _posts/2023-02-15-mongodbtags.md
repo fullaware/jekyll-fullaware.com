@@ -2,8 +2,7 @@
 title: "Tagging Asteroids with MongoDB"
 date: 2023-02-15
 tags : ["mongodb"]
-draft : false
-layout: post
+categories : ["Development"]
 ---
 # Objective
 Let's use MongoDB to build an asteroid tagging engine that allows us to assign multiple elements to any asteroid then query based on those elements.  
@@ -11,7 +10,7 @@ Let's use MongoDB to build an asteroid tagging engine that allows us to assign m
 <!--more-->
 # Schema design
 
-![Arrays](/arrays.jpg)
+![Arrays](/assets/img/arrays.jpg)
 
 Arrays allow you to assign an arbitrary number of elements to a document.  MongoDB allows you to insert, update and delete elements within arrays.
 

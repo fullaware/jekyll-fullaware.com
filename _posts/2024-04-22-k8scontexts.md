@@ -2,8 +2,7 @@
 title: "Managing multiple Kubernetes contexts"
 date: 2024-04-22
 tags : [ "k8s"]
-draft: false
-layout: post
+categories : ["DevOps"]
 ---
 
 Keep all INDIVIDUAL kubeconfig.yaml files under `.kube/contexts`
