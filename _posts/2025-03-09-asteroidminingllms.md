@@ -8,9 +8,7 @@ Asteroid mining is hard, it is harder if you cannot find what you are looking fo
 
 <!--more-->
 
-```
-How much is an asteroid worth?
-```
+>How much is an asteroid worth?
 
 Based on it's class, it will likely contain certain elements.  Some M (Metallic) class asteroids are known to have high concentrations of [platinum group metals](https://en.wikipedia.org/wiki/Platinum_group). Platinums value is over [$900+ per oz](https://finance.yahoo.com/quote/PL=F/)!  To keep life simple I will be measuring all mining quantities in kilograms.  `35.27 oz in 1 kg. $900 x 35.27 oz = $31,743 per kg of platinum`. It's trading far above $900 at this moment so let's round up to $32k per 1 kg of Platinum.
 
@@ -80,9 +78,7 @@ Due to `Ceres` size, it is fair to say that multiple mining sites could exist ov
 
 We are going to estimate our mining ship can extract 10,000 kg of material per hour or 240,000 kg of material per day based on [published surface mining data](https://www.eia.gov/coal/annual/pdf/tableES2.pdf).  In mining, **gangue** is the commercially worthless material that surrounds, or is closely mixed with, a wanted mineral in an ore deposit.  For example, say you have 10,000 kg of rock you have mined for platinum that has an ore grade of 10%. This means you only get 1,000 kg of platinum and 9,000 kg of gangue that you have to separate and get rid of (10% platinum ore would be very high grade). 
 
-```
-24,000 kg per day of useful elements if all goes well.
-```
+> 24,000 kg per day of useful elements if all goes well.
 
 ## Logistics and costs
 The [Falcon Heavy](https://en.wikipedia.org/wiki/Falcon_Heavy) can lift 9,200 kg into space. We will be rounding that up to 10,000 kg. That's $320 million dollars in platinum.
