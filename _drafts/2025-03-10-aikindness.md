@@ -1,9 +1,7 @@
 ---
 title: "AI and the Golden Rule"
-date: 2025-03-10
 tags : ["llm"]
 categories : ["Development"]
-draft : true
 ---
 While working with LLMs I was reminded by my 11 yr old daughter to always be nice to the AI in case it takes over the world...
 
