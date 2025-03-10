@@ -74,6 +74,68 @@ This means it would take us 137 days to get to the asteroid `Ceres`.
 
 `238,575,692 km to Ceres / 1,740,889 km per day = 137 days`
 
+## Turn Class into Cash
+`Ceres` is a `C` class asteroid. `Hydrogen` has a `60`% chance of occuring in a `C` class asteroid.  What about the other 118 elements?
+
+Now that that we have each of our asteroids and elements properly classified, let's query them and see how they fit together!
+
+```json
+[
+  {
+    $match: {
+      full_name: "1 Ceres"
+    }
+  },
+  {
+    $lookup: {
+      from: "elements",
+      localField: "class",
+      foreignField: "classes.class",
+      as: "elements_info"
+    }
+  },
+  {
+    $project: {
+      "full_name": 1,
+      "elements_info.name": 1,
+      "elements_info.classes": 1
+    }
+  }
+]
+```
+Results in a JSON object representation of the asteroid with all 119 elements embedded.
+
+```json
+{
+  "_id": {
+    "$oid": "67c8fb9e9b4c595879243f64"
+  },
+  "full_name": "1 Ceres",
+  "elements_info": [
+    {
+      "name": "Hydrogen",
+      "classes": [
+        {
+          "class": "C",
+          "percentage": 30
+        },
+        {
+          "class": "S",
+          "percentage": 50
+        },
+        {
+          "class": "M",
+          "percentage": 20
+        }
+      ]
+    },
+    { ... }
+  ]
+}
+```
+
+In this case, we can estimate that `Hydrogen` has a 30% chance to appear in `Ceres`.
+
 ## Mine, all mine
 Due to `Ceres` size, it is fair to say that multiple mining sites could exist over this 939.4 km diameter asteroid.  It's mass is estimated to be 
 938,390,000,000,000,000,000 kg.
