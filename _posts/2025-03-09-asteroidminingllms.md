@@ -40,7 +40,7 @@ For instance `Hydrogen` now has the following fields:
 "classes": [
     {
       "class": "C",
-      "percentage": 60
+      "percentage": 30
     },
     {
       "class": "S",
@@ -75,7 +75,7 @@ This means it would take us 137 days to get to the asteroid `Ceres`.
 `238,575,692 km to Ceres / 1,740,889 km per day = 137 days`
 
 ## Turn Class into Cash
-`Ceres` is a `C` class asteroid. `Hydrogen` has a `60`% chance of occuring in a `C` class asteroid.  What about the other 118 elements?
+`Ceres` is a `C` class asteroid. `Hydrogen` has a `30`% chance of occuring in a `C` class asteroid.  What about the other 118 elements?
 
 Now that that we have each of our asteroids and elements properly classified, let's query them and see how they fit together!
 
