@@ -16,6 +16,8 @@ Based on it's class, it will likely contain certain elements.  Some M (Metallic)
 
 With a collection of [958524 asteroids, thanks to https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset](https://www.kaggle.com/datasets/sakhawat18/asteroid-dataset), it is important for my use case that they have a `class` of either `C` (Carbonaceous), `S` (Silicaceous), `M` (Metallic), or `O` (Other, unclassified). 
 
+[https://github.com/fullaware/ollama-pydantic?tab=readme-ov-file#3-update_asteroids_classespy](https://github.com/fullaware/ollama-pydantic?tab=readme-ov-file#3-update_asteroids_classespy)
+
 ### Element Uses
 
 119 Elements in the periodic table, we have all the information you could imagine on elements thanks to [https://github.com/Bowserinator/Periodic-Table-JSON](https://github.com/Bowserinator/Periodic-Table-JSON).  
@@ -50,6 +52,7 @@ For instance `Hydrogen` now has the following fields:
     }
   ]
 ```
+[https://github.com/fullaware/ollama-pydantic?tab=readme-ov-file#2-update_element_uses_mdbpy](https://github.com/fullaware/ollama-pydantic?tab=readme-ov-file#2-update_element_uses_mdbpy)
 
 # Let's go hunting!
 
