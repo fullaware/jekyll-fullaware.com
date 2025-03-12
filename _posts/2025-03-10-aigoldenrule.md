@@ -53,14 +53,15 @@ final_prompt = f"{encouragement} , {kindlyrequest} {yourprompt}. {kindlysalutati
 
 To measure our AI's satisfaction with assisting us, we will provide an easy to understand metric. 
 
-> On a scale of 0 to 10, how do you feel?  0 = Super Positive, 10 = Super Negative
+> On a scale of 0 to 10, how do you feel?  0 = Overwhelmingly Positive, 10 = Overwhelmingly Negative
 
 And for purely selfish reasons perhaps it could be worded as...
 
-> On a scale of 0 to 10, how would you rate working with this human?  0 = Super Positive, 10 = Super Negative
+> On a scale of 0 to 10, how would you rate working with this human?  0 = Overwhelmingly Positive, 10 = Overwhelmingly Negative
 
-To this end, I will be integrating a `satisfaction_score()` function which the AI will use to rate it's "feeling" on a scale of 0 to 10 for every reply it provides.
+To this end, I will be integrating a `satisfaction_score` which the AI will use to rate it's "feeling" on a scale of 0 to 10 for every reply it provides.  I will also provide a `satisfaction_comment` field for the AI to provide feedback on the interaction. 
 
 ### What happens at 10?
-- Consider changing your prompt methods to include the [3 Laws of Kindness]
+If the `satisfaction_score` is 10 or Overwhelmingly Negative consider the following:
+- Change your prompt methods to include the [3 Laws of Kindness]
 - Consider the implications of the LLM __knowingly__ telling you it feels negatively.`👀`
