@@ -8,11 +8,12 @@ categories : ["Development"]
 
 > Asteroids have LOTS of value IF we can get our hands on them.
 
+## Space Gold
 Let's be honest, nothing is going to sell the general public on asteroid mining like landing a 50,000kg chunk of "space gold" on this planet.
 
- [1,442,115 asteroids](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in our solarsystem but only [38,405 actively observed/tracked asteroids](https://eyes.nasa.gov/apps/asteroids/#/home).
+To achieve this we have to figure out where we are in relation to these asteroids and there are [1,442,115 asteroids](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in our solarsystem but only [38,405 actively observed/tracked asteroids](https://eyes.nasa.gov/apps/asteroids/#/home).  The ones that come close enough in proximity to Earth to be a "threat" have the "Hazard" flag. 
 
-[119 elements](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in the periodic table, 5 of those elements are currently traded commodities [found on finance.yahoo.com](finance.yahoo.com);
+For each of those asteroids there is some likelihood that many of our [119 elements](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in the periodic table can be extracted from those asteroids, 5 of those elements are currently traded commodities [found on finance.yahoo.com](finance.yahoo.com);
 
 We are dealing in kilograms so...
 
@@ -32,3 +33,9 @@ One kilogram of gold equals 1,000 grams or approximately 32.1507 troy ounces.
 - platinum = $32,858 * 50,000 = $1,642,900,000
 - palladium = $31,315 * 50,000 = $1,565,750,000
 - silver = $1,093 * 50,000 = $54,650,000
+
+## Schema
+Fundamentals of [Schema Design](https://www.mongodb.com/developer/products/mongodb/mongodb-schema-design-best-practices/) with [MongoDB](https://learn.mongodb.com/) can be quickly summed up with: 
+
+> Data that's queried together is stored together
+
