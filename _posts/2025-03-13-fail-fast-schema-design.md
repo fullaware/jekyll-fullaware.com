@@ -39,3 +39,41 @@ Fundamentals of [Schema Design](https://www.mongodb.com/developer/products/mongo
 
 > Data that's queried together is stored together
 
+Since our objective is to mine the asteroid of its resources, we need to have an accounting of the resources.  For simplicity sake we will take the following asteroid with all but 2 of it's potential 119 elements in the elements array:
+
+```json
+{
+  "spkid": 2101955,
+  "full_name": "101955 Bennu (1999 RQ36)",
+  "pdes": "101955",
+  "name": "Bennu",
+  "neo": true,
+  "hazard": true,
+  "abs_magnitude": 20.19,
+  "diameter": 0.492,
+  "albedo": 0.046,
+  "diameter_sigma": 0.02,
+  "orbit_id": "JPL 97",
+  "moid": 0.0032228,
+  "class": "C",
+  "elements": [
+    {
+      "name": "Hydrogen",
+      "mass_kg": 43063080,
+      "number": 1
+    },
+    {
+      "name": "Helium",
+      "mass_kg": 14354360,
+      "number": 2
+    }
+  ],
+  "mass": {
+    "$numberLong": "86054387340"
+  },
+  "moid_days": 0,
+  "value": {
+    "$numberLong": "417126801578"
+  }
+}
+```
