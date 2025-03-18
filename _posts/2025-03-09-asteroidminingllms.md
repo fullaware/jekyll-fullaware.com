@@ -149,7 +149,7 @@ We are going to estimate our mining ship can extract 10,000 kg of material per h
 > 24,000 kg per day of useful elements if all goes well.
 
 ## Logistics and costs
-The [Falcon Heavy](https://en.wikipedia.org/wiki/Falcon_Heavy) can lift 9,200 kg into space. We will be rounding that up to 10,000 kg. That's $320 million dollars in platinum.
+The [Falcon Heavy](https://en.wikipedia.org/wiki/Falcon_Heavy) can lift 50,000 kg into space and lower it back down. That's $1.6 billion dollars in platinum.
 
 The Falcon Heavy has 2 costs models; 
 - Reusable: US $97 million
@@ -183,8 +183,8 @@ $45,000 per day based on a $16M+ annual run rate.  Play with those numbers as yo
 
 **$162.5M total investment.**
 
-**$320M in recovered resources.**
+**$1.6B in recovered resources.**
 
-# $157.5M in profits
+# $1.5M in profits
 
-Take that and invest in a 2nd shuttle. Repeat as needed.
+Take that and invest in a fleet of shuttles and own the stars.Repeat as needed.

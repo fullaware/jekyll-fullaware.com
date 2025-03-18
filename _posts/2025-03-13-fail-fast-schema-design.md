@@ -8,28 +8,27 @@ categories : ["Development"]
 
 > Asteroids have LOTS of value IF we can get our hands on them.
 
-Let's be honest, nothing is going to sell the general public on asteroid mining like landing a 10,000kg chunk of "space gold" on this planet.
+Let's be honest, nothing is going to sell the general public on asteroid mining like landing a 50,000kg chunk of "space gold" on this planet.
 
  [1,442,115 asteroids](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in our solarsystem but only [38,405 actively observed/tracked asteroids](https://eyes.nasa.gov/apps/asteroids/#/home).
 
 [119 elements](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in the periodic table, 5 of those elements are currently traded commodities [found on finance.yahoo.com](finance.yahoo.com);
 
-- [gold - $3,043 / oz](https://finance.yahoo.com/quote/GC%3DF/)
-- [silver - $34 / oz](https://finance.yahoo.com/quote/SI%3DF/)
-- [platinum - $1,022 / oz](https://finance.yahoo.com/quote/PL%3DF/)
-- [copper - $5 / oz](https://finance.yahoo.com/quote/HG%3DF/)
-- [palladium - $974 / oz](https://finance.yahoo.com/quote/PA%3DF/)
-
-<!--more-->
 We are dealing in kilograms so...
 
-$1 oz = 0.02834952 kg$
+One kilogram of gold equals 1,000 grams or approximately 32.1507 troy ounces.
 
+- [copper - $5 / oz](https://finance.yahoo.com/quote/HG%3DF/) = $161 / kg
+- [gold - $3,043 / oz](https://finance.yahoo.com/quote/GC%3DF/) = $97,835 / kg
+- [platinum - $1,022 / oz](https://finance.yahoo.com/quote/PL%3DF/) = $32,858 / kg
+- [palladium - $974 / oz](https://finance.yahoo.com/quote/PA%3DF/) = $31,315 / kg
+- [silver - $34 / oz](https://finance.yahoo.com/quote/SI%3DF/) = $1,093 / kg
+<!--more-->
 
-- gold = $97,785 / kg ($977,850,000 for 10,000 kg)
-- silver = $1,092 / kg ($10,920,000 for 10,000 kg)
-- platinum = $32,850 / kg ($328,500,000 for 10,000 kg)
-- copper = $160 / kg ($1,600,000 for 10,000 kg)
-- palladium = $31,314 / kg ($313,140,000 for 10,000 kg)
+[Falcon Heavy](https://en.wikipedia.org/wiki/Falcon_Heavy) can bring down 50,000 kg from [Low Earth Orbit](https://en.wikipedia.org/wiki/Low_Earth_orbit)
 
-# 
+- copper = $161 * 50,000 = $8,050,000
+- gold = $97,835 per kg * 50,000 = $4,891,750,000
+- platinum = $32,858 * 50,000 = $1,642,900,000
+- palladium = $31,315 * 50,000 = $1,565,750,000
+- silver = $1,093 * 50,000 = $54,650,000
