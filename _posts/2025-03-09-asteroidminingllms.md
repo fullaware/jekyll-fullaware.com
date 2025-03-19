@@ -185,6 +185,6 @@ $45,000 per day based on a $16M+ annual run rate.  Play with those numbers as yo
 
 **$1.6B in recovered resources.**
 
-# $1.5M in profits
+# $1.5B in profits!!
 
-Take that and invest in a fleet of shuttles and own the stars.Repeat as needed.
+Take that and invest in a fleet of shuttles and own the stars. Repeat as needed.
