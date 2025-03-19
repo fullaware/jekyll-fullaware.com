@@ -1,7 +1,7 @@
 ---
 title: "Asteroid Mining with LLMs"
 date: 2025-03-09
-tags : ["mongodb","llm"]
+tags : ["mongodb","llm", "asteroids"]
 categories : ["Development"]
 ---
 Asteroid mining is hard, it is harder if you cannot find what you are looking for. We are going to use low power hardware ([M2 Pro 16GB 512GB](https://support.apple.com/en-us/111837)) to run a Large Language Model, [IBM granite3.1-dense:8b](https://www.ollama.com/library/granite3.1-dense), via [Ollama](https://ollama.com) to classify asteroids and elements so that we can easily answer the following question.

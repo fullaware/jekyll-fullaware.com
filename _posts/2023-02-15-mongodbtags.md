@@ -1,7 +1,7 @@
 ---
 title: "Tagging Asteroids with MongoDB"
 date: 2023-02-15
-tags : ["mongodb"]
+tags : ["mongodb" "asteroids"]
 categories : ["Development"]
 ---
 # Objective
