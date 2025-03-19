@@ -16,10 +16,10 @@ timezone:
 
 title: Full Aware # the main title
 
-tagline: Consulting, education, development # it will display as the subtitle
+tagline: AI Consulting, education, development # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Consulting, education, development
+  AI Consulting, education, development
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
