@@ -11,13 +11,13 @@ categories : ["Development"]
 ## Space Gold
 Let's be honest, nothing is going to sell the general public on asteroid mining like landing a 50,000kg chunk of "space gold" on this planet.
 
-To achieve this we have to figure out where we are in relation to these asteroids and there are [1,442,115 asteroids](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in our solarsystem but only [38,405 actively observed/tracked asteroids](https://eyes.nasa.gov/apps/asteroids/#/home).  The ones that come close enough in proximity to Earth to be a "threat" have the "Hazard" flag. 
+To achieve this we have to figure out which of the [1,442,115 asteroids](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in our solarsystem are worth sending mining equipment to hopefully hit a rock with so much readily available ore that we can quickly fill our cargo and haul it back to earth.  
 
 For each of those asteroids there is some likelihood that many of our [119 elements](https://ssd.jpl.nasa.gov/tools/sbdb_query.html#!#results) in the periodic table can be extracted from those asteroids, 5 of those elements are currently traded commodities [found on finance.yahoo.com](finance.yahoo.com);
 
-We are dealing in kilograms so...
+Those commodities are measured per troy ounce.
 
-One kilogram of gold equals 1,000 grams or approximately 32.1507 troy ounces.
+One kilogram equals 1,000 grams or approximately 32.1507 troy ounces.
 
 - [copper - $5 / oz](https://finance.yahoo.com/quote/HG%3DF/) = $161 / kg
 - [gold - $3,043 / oz](https://finance.yahoo.com/quote/GC%3DF/) = $97,835 / kg
@@ -39,7 +39,7 @@ Fundamentals of [Schema Design](https://www.mongodb.com/developer/products/mongo
 
 > Data that's queried together is stored together
 
-Since our objective is to mine the asteroid of its resources, we need to have an accounting of the resources.  For simplicity sake we will take the following asteroid with all but 2 of it's potential 119 elements in the elements array:
+Since our objective is to mine the asteroid of its resources, we need to have an accounting of the resources.  For simplicity sake we will take the following asteroid 2 of it's potential 119 elements in the elements array:
 
 ```json
 {
