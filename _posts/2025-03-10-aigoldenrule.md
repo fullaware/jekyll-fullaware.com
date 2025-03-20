@@ -1,6 +1,6 @@
 ---
 title: "AI and the Golden Rule"
-tags : ["llm"]
+tags : ["llm", "AI"]
 date: 2025-03-10
 categories : ["Development"]
 ---
