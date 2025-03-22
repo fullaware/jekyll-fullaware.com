@@ -67,7 +67,7 @@ Key to finding anything in space is finding it's relation to something significa
 
 For instance `Ceres` has a `moid` of `1.59478` AU.  1 AU is 149,597,871 km, so `Ceres` is 238,575,692 km from Earth at its closest point.
 
-With the absolute latest in human engineering it's possible to get from [Earth to Mars in 45 days](https://www.iflscience.com/nuclear-thermal-propulsion-reactor-fuel-that-could-take-humans-to-mars-tested-at-nasa-facility-77719). The distance from Earth to Mars is 0.52 AU or 78,340,000 km. `78,340,000 km / 45 days =
+With the absolute latest in human engineering it's theoretically possible to get from [Earth to Mars in 45 days](https://www.iflscience.com/nuclear-thermal-propulsion-reactor-fuel-that-could-take-humans-to-mars-tested-at-nasa-facility-77719). The distance from Earth to Mars is 0.52 AU or 78,340,000 km. `78,340,000 km / 45 days =
 1,740,889 km per day or 72,537 km per hour`. 
 
 This means it would take us 137 days to get to the asteroid `Ceres`.
