@@ -8,7 +8,7 @@ categories : ["Development"]
 <!--more-->
 
 
-Today we use [Retrieval Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) as an intermediary between the User and the information they are looking for.  This design works great for AI as a Service offerings like OpenAI, Grok, Deepseek, etc. These companies benefit from your interactions as well as the AI's responses to tune the AI to be more effective for future questions of a similar type.  Much like Google caches search requests to help speed up the reponse for the next similar request, the AI can be trained to answer questions more effectively when it has domain specific knowledge.
+Today we use [Retrieval Augmented Generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) as an intermediary between the User and the information they are looking for.  This design works great for AI as a Service offerings like OpenAI, Grok, Deepseek, etc. These companies benefit from your interactions as well as the AI's responses to tune the AI to be more effective for future questions of a similar type.  Much like Google caches search requests to help speed up the response for the next similar request, the AI can be trained to answer questions more effectively when it has domain specific knowledge.
 
 - Medical
 - Financial
@@ -42,4 +42,4 @@ When Asimov conceived the Three Laws of Robotics in 1942, he knew that humans wo
 
 Harm can come in the form of poor life choices. If I'm being lazy and want a burger instead of making myself a salad this can cause harm.  Not immediately but it certainly wouldn't be in my best interest if I knew my LDL was high in my last blood test and going for the burger and shake combo would certainly make that worse.  
 
-What if our AI could look out for us by making sure that our pantry is stocked with healthy choices.  So at 7PM on a Tuesday night I start a search for "Burgers near me" my AI might remind me that I have all the ingredients to make a delicious chikpea salad.  Or if I'm insisting on being lazy here are some vegan restaurants nearby that offer delivery with recommended dishes from each for me to choose.
+What if our AI could look out for us by making sure that our pantry is stocked with healthy choices.  So at 7PM on a Tuesday night I start a search for "Burgers near me" my AI might remind me that I have all the ingredients to make a delicious chickpea salad.  Or if I'm insisting on being lazy here are some vegan restaurants nearby that offer delivery with recommended dishes from each for me to choose.

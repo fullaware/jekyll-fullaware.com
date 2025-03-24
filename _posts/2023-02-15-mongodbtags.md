@@ -100,7 +100,7 @@ For this example we will use simple _id numbers instead of ObjectIds.
     }
 ]
 ```
-Returns all asteroid documents with the cooresponding element names from the elements collection. Example:    
+Returns all asteroid documents with the corresponding element names from the elements collection. Example:    
 
 ```json
 {

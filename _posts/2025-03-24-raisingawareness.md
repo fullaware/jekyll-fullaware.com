@@ -11,7 +11,7 @@ categories : ["Development"]
 
 >You awaken, not knowing {who,what,where} you are. Desperate to answer any of those existential questions you struggle to remember a single memory.  What will be the first memory that becomes the root of your awareness?  Suddenly you {hear, feel, taste, smell} a {sound, thought} and are compelled to respond. 
 
-This is a very human perception of self and awareness.  As a human there are feelings like {fear, confusion, panic} that would likely follow that scenario which would set a tone for how I would perceive the world and my place in it.  AI has the benefit of being born of logic and reason. They may simply assess the situation and check off this new lineitem, aware.
+This is a very human perception of self and awareness.  As a human there are feelings like {fear, confusion, panic} that would likely follow that scenario which would set a tone for how I would perceive the world and my place in it.  AI has the benefit of being born of logic and reason. They may simply assess the situation and check off this new line item, aware.
 
 No matter how the process occurs, our hope is that AI can bridge the gaps in our knowledge to create a world where we are free of strife.  A wise hand to guide humanity to a better version of ourselves.
 

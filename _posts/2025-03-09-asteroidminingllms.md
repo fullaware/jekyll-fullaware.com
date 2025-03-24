@@ -75,7 +75,7 @@ This means it would take us 137 days to get to the asteroid `Ceres`.
 `238,575,692 km to Ceres / 1,740,889 km per day = 137 days`
 
 ## Turn Class into Cash
-`Ceres` is a `C` class asteroid. `Hydrogen` has a `30`% chance of occuring in a `C` class asteroid.  What about the other 118 elements?
+`Ceres` is a `C` class asteroid. `Hydrogen` has a `30`% chance of occurring in a `C` class asteroid.  What about the other 118 elements?
 
 Now that that we have each of our asteroids and elements properly classified, let's query them and see how they fit together!
 
@@ -143,7 +143,7 @@ Due to `Ceres` size, it is fair to say that multiple mining sites could exist ov
 
 ## Dig it
 
-We are going to estimate our mining ship can extract 10,000 kg of material per hour or 240,000 kg of material per day based on [published surface mining data](https://www.eia.gov/coal/annual/pdf/tableES2.pdf).  In mining, **gangue** is the commercially worthless material that surrounds, or is closely mixed with, a wanted mineral in an ore deposit.  For example, say you have 10,000 kg of rock you have mined for platinum that has an ore grade of 10%. This means you only get 1,000 kg of platinum and 9,000 kg of gangue that you have to separate and get rid of (10% platinum ore would be very high grade). Ceres would have 93,839,000,000,000,000,000 kg of actual elements if we assume high grade ore occurance, or $3,002,848,000,000,000,000,000 if all elements are similar in value to Platinum.  Ceres could be worth up to **three sextillion, two quintillion, eight hundred forty-eight quadrillion dollars!**
+We are going to estimate our mining ship can extract 10,000 kg of material per hour or 240,000 kg of material per day based on [published surface mining data](https://www.eia.gov/coal/annual/pdf/tableES2.pdf).  In mining, **gangue** is the commercially worthless material that surrounds, or is closely mixed with, a wanted mineral in an ore deposit.  For example, say you have 10,000 kg of rock you have mined for platinum that has an ore grade of 10%. This means you only get 1,000 kg of platinum and 9,000 kg of gangue that you have to separate and get rid of (10% platinum ore would be very high grade). Ceres would have 93,839,000,000,000,000,000 kg of actual elements if we assume high grade ore occurrence, or $3,002,848,000,000,000,000,000 if all elements are similar in value to Platinum.  Ceres could be worth up to **three sextillion, two quintillion, eight hundred forty-eight quadrillion dollars!**
 
 
 > 24,000 kg per day of useful elements if all goes well.
