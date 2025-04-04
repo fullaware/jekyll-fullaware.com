@@ -4,9 +4,9 @@ date: 2025-04-03
 tags : ["llm", "AI"]
 categories : ["Development"]
 ---
-![](/assets/img/fullaware-ai-workflow.png)
-<!--more-->
 
+<!--more-->
+![caveman on computer by grok](/assets/img/caveman.png)
 # 
 
 
