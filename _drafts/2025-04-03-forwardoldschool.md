@@ -6,17 +6,16 @@ categories : ["Development"]
 ---
 
 <!--more-->
-![caveman on computer by grok](/assets/img/caveman.png)
-# 
+![caveman copy pasting from grok](/assets/img/caveman.png)
+
+# Forward to Oldschool
+
+When I started writing the MVP (Minimum Viable Product) for my Asteroid Mining Operation Simulator I had no idea what was ahead.  The promise of being able to sit down with VS Code and Copilot (ChatGPT 4o) and hammer out a working application was enticing.
 
 
 
-# Assumptions
+### Giving back
 
-# Taking one for the team
+If you are keen to go back through commit history, you can see the moments when I changed direction every time but this is where I started making progress.
 
-
-
-# Giving back
-
-https://github.com/fullaware/beryl.git
+https://github.com/fullaware/beryl/commit/4a09c5a1693ef3ced57ab45d3beda2399e79cb96
