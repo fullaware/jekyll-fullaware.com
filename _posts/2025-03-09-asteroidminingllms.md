@@ -143,10 +143,10 @@ Due to `Ceres` size, it is fair to say that multiple mining sites could exist ov
 
 ## Dig it
 
-We are going to estimate our mining ship can extract 10,000 kg of material per hour or 240,000 kg of material per day based on [published surface mining data](https://www.eia.gov/coal/annual/pdf/tableES2.pdf).  In mining, **gangue** is the commercially worthless material that surrounds, or is closely mixed with, a wanted mineral in an ore deposit.  For example, say you have 10,000 kg of rock you have mined for platinum that has an ore grade of 10%. This means you only get 1,000 kg of platinum and 9,000 kg of gangue that you have to separate and get rid of (10% platinum ore would be very high grade). Ceres would have 93,839,000,000,000,000,000 kg of actual elements if we assume high grade ore occurrence, or $3,002,848,000,000,000,000,000 if all elements are similar in value to Platinum.  Ceres could be worth up to **three sextillion, two quintillion, eight hundred forty-eight quadrillion dollars!**
+We are going to estimate our mining ship can extract 1,500 kg of material per hour or 36,000 kg of material per 24 hrs based on [published surface mining data](https://www.eia.gov/coal/annual/pdf/tableES2.pdf) but considering the challenges of securing a mining site in near-zero gravity with a single ship, it required this more conservative estimate.  In mining, **gangue** is the commercially worthless material that surrounds, or is closely mixed with, a wanted mineral in an ore deposit.  For example, say you have 10,000 kg of rock you have mined for platinum that has an ore grade of 10%. This means you only get 1,000 kg of platinum and 9,000 kg of gangue that you have to separate and get rid of (10% platinum ore would be very high grade). Ceres would have 93,839,000,000,000,000,000 kg of actual elements if we assume high grade ore occurrence, or $3,002,848,000,000,000,000,000 if all elements are similar in value to Platinum.  Ceres could be worth up to **three sextillion, two quintillion, eight hundred forty-eight quadrillion dollars!**
 
 
-> 24,000 kg per day of useful elements if all goes well.
+> 360 kg per day of useful elements if all goes well.
 
 ## Logistics and costs
 The [Falcon Heavy](https://en.wikipedia.org/wiki/Falcon_Heavy) can lift 50,000 kg into space and lower it back down. That's $1.6 billion dollars in platinum.
@@ -163,7 +163,7 @@ If your ship + cargo makes it back, great (minus several million in repairs)!  I
 
 - 3 days to establish mining site.
 
-- 1 day to mine.
+- 139 days to mine to 50,000kg capacity if all goes well.
 
 - 1 day to prep for return.
 
@@ -174,14 +174,14 @@ Piloted by 3 AIs to form a quorum will help ensure mission success. Each special
 - astral navigation
 - resource management
 
-$45,000 per day based on a $16M+ annual run rate.  Play with those numbers as you would like.  279 days @ $45K per day is $12.5M total mission operational costs.
+$45,000 per day based on a $16M+ annual run rate.  Play with those numbers as you would like.  417 days @ $45K per day is $18.7M total mission operational costs.
 
 ## TL;DR
 **$150M** to launch, $50 million saved if you can reuse it for future missions.
 
-**$12.5M** mission operation costs.
+**$18.7M** mission operation costs.
 
-**$162.5M total investment.**
+**$168.7M total investment.**
 
 **$1.6B in recovered resources.**
 
