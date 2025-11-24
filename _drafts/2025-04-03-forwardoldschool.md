@@ -9,18 +9,16 @@ categories : ["Development"]
 
 <!--more-->
 ![caveman on computer by grok](/assets/img/caveman.png)
-
-## The Dream
-
-The way 
-
-
-## The Reality
-
-## Taking one for the team
+# 
 
 
 
-## Giving back
+# Assumptions
 
-https://github.com/fullaware/beryl.git
+# Taking one for the team
+
+
+
+# Giving back
+
+https://github.com/fullaware/beryl/commit/4a09c5a1693ef3ced57ab45d3beda2399e79cb96
