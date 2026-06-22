@@ -1,5 +1,5 @@
 ---
-title: "AI Management Loop"
+title: "The final loop"
 date: 2026-06-21
 tags: ["llm", "automation", "management"]
 categories: ["Development"]
