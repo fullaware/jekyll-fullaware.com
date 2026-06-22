@@ -16,3 +16,5 @@ It has access to all the resources it needs to loop until it figures things out.
 It knows it has limited context so it spawns sub-loops with their own context.
 
 Shouldn't be long now.
+
+[Loop Library](https://signals.forwardfuture.ai/loop-library/)
